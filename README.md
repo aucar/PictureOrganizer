@@ -15,6 +15,9 @@ This script organizes your pictures and videos based on the embedded meta data l
 + Sanitizes geographical names for unsupported charaters by the OS.
 + Debug and error logs are available.
 
+## Dependencies
++ [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/) (Windows executable comes with the repo)
++ [jq](https://stedolan.github.io/jq/) (Windows executable comes with the repo)
 
 ## Quick Start
 + Clone this repo.
